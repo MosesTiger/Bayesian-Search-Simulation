@@ -29,5 +29,3 @@ The simulator divides the search area into segments, assigning probabilities to 
 ## Contributing
 Contributions to improve the simulator are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
